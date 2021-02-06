@@ -37,7 +37,7 @@ https://easychair.org/conferences/?conf=qre2021
 
 ===== Important Dates =====
 
-Extended Abstract Submission: 30 March 2021
+Extended Abstract Submission: 10 April 2021
 Notification Extended Abstract: 1 May 2021
-Workshop Date: 30 May 2021
-Full Paper Submission: 1 August 2021
+Workshop Date: 22 May 2021
+Full Paper Submission: 1 October 2021
