@@ -1,7 +1,7 @@
 3rd International Workshop on Quantum Resource Estimation (QRE 2021)
 https://www.quantumresource.org/
 
-May 30, 2021, Valencia, Spain
+June 17, 2021, Valencia, Spain
 
 co-located with International Symposium on Computer Architecture (ISCA) 2021
 
