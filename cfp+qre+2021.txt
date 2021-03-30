@@ -31,7 +31,7 @@ Research papers, tutorials, software and other demonstrations, and work-in-progr
 
 Initial submission for QRE2021 will consist of an extended abstract, limited to 2+epsilon-pages (including figures and references, please don't go nuts with the epsilon!). Contributions must be written in English and report on original, unpublished work, not submitted for publication elsewhere.
 
-Upon acceptance, researchers are invited to submit full research papers (maximum 12 pages), as well as work-in-progress or tool demonstration papers (maximum 6 pages). The full papers are submitted after the workshop (see important dates below) and the best papers will be selected to appear in IEEE Transactions on Quantum Engineering. 
+Upon acceptance, researchers are invited to submit full research papers (maximum 12 pages), as well as work-in-progress or tool demonstration papers (maximum 6 pages). The full papers are submitted after the workshop (see important dates below) and the best papers will be recommended to a second review round for IEEE Transactions on Quantum Engineering. 
 
 https://easychair.org/conferences/?conf=qre2021
 
