@@ -26,6 +26,13 @@ Research papers, tutorials, software and other demonstrations, and work-in-progr
 * Practical quantitative analysis of surface code alternatives.
 * Noisy Intermediate Scale Quantum (NISQ) evaluation.
 
+==== Invited Speakers ====
+
+* Maria Kieferova, University of Technology Sydney
+* Michael Bremner, University of Technology Sydney
+* Kenneth Brown, Duke University
+* Nikolas P. Bruekmann, University College London
+* John van de Wetering, Oxford University
 
 ===== Paper submission =====
 
